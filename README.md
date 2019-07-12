@@ -27,4 +27,27 @@
 
 效果图：
 
-![Image](https://github.com/piterzhuhui/Background-Management-System/blob/master/ScreenImage/login.png)
+登录：
+![Image](https://github.com/piterzhuhui/Background-Management-System/blob/master/Screenshot/login.png)
+
+注册：
+![Image](https://github.com/piterzhuhui/Background-Management-System/blob/master/Screenshot/register.png)
+
+首页：
+![Image](https://github.com/piterzhuhui/Background-Management-System/blob/master/Screenshot/home.png)
+
+资金列表：
+![Image](https://github.com/piterzhuhui/Background-Management-System/blob/master/Screenshot/fundlist.png)
+
+增加：
+![Image](https://github.com/piterzhuhui/Background-Management-System/blob/master/Screenshot/add.png)
+
+删除：
+![Image](https://github.com/piterzhuhui/Background-Management-System/blob/master/Screenshot/delete.png)
+
+修改：
+![Image](https://github.com/piterzhuhui/Background-Management-System/blob/master/Screenshot/edit.png)
+
+
+
+
