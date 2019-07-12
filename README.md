@@ -27,4 +27,4 @@
 
 效果图：
 
-![Image text](http://github.com/piterzhuhui/Background-Management-System/Screenshot/login.png)
+![Image](https://github.com/piterzhuhui/Background-Management-System/blob/master/ScreenImage/login.png)
